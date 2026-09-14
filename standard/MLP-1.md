@@ -834,7 +834,7 @@ To express the possibility that something might not happen, do not use a normati
 > **Not CLW:** The party will file a response within 14 days.
 > (This states a duty. Use *must*.)
 
-**"Should" is not operative.** *Should* has no settled deontic force. Do not use it in R1 or R2 operative text. You may use it in explanatory text at R3 or R4 when the source itself is hortatory, and only with a note that the source uses a non-mandatory word.
+**"Should" is not operative.** *Should* has no settled deontic force. Do not use it at any register, in operative or in explanatory text. Where a source uses *should*, do not map it to an operator. State that the source uses a non-mandatory word. Quote the source where its exact word matters (Rule 2.7). Rule 10.7 governs the mapping, and Rule 7.3 forbids the writer's own *should*, which is advice.
 
 ---
 
@@ -2646,7 +2646,7 @@ This category is **closed**. No word may be added by a writer, a project, or a p
 |---|---|---|
 | shall (v) | must, may, will, or delete | Rule 3.2, GR-1. Preserve in quoted text. |
 | shall not (v) | must not, may not | The two are not the same. Rule 3.3. |
-| should (v) | must, or restate | Not operative. Permitted in R3/R4 explanatory text only where the source is hortatory. |
+| should (v) | must, or restate | Not operative at any register. Where a source uses it, do not map. Rule 3.1, Rule 10.7. |
 | ought to (v) | must, or restate | |
 | is required to (v) | must | |
 | is obligated to (v) | must | |
@@ -3078,12 +3078,11 @@ The following are taken from the general practice of controlled languages and ar
 
 1. **Register R4 and terms of art.** R4 permits a described equivalent to follow a term of art. Whether this is safe for standards of review, and whether R4 should be restricted to procedural rather than substantive material, needs testing against reader comprehension data.
 2. **Word count for citations.** Counting a full citation as one word is generous. If R2 restatements routinely run to 30 counted words with four citations, the effective sentence is long. A separate citation-density limit may be needed.
-3. **The `should` carve-out.** Rule 3.1 permits *should* in R3 and R4 explanatory text where the source is hortatory. This is the weakest rule in Section 3 and may need to be closed.
-4. **Automation of checks 10 through 17.** These are specified but the tooling is not.
-5. **Jurisdictional labeling.** Rule 8.1 requires the writer to decide whether a deadline is jurisdictional. This is a contested legal question in many cases, and the interaction between Rule 8.1 and Rule 10.4 needs a worked rule.
-6. **Multi-source restatements.** The ledger assumes one source. A restatement that synthesizes a rule, a local rule, and a standing order needs a ledger structure that tracks provenance per proposition.
-7. **Jurisdiction profiles.** Several rules now turn on jurisdiction: whether *shall* is the governing operator (Rule 3.2), whether headings are construable (Rule 6.5), which retroactivity default applies (Rule 6.6), and whether a general severability provision exists (Rule 6.7). A short per-jurisdiction profile stating these defaults may serve better than qualifying each rule in place.
-8. **Comprehension testing.** Registers R3 and R4 are asserted, not tested. The jury instruction projects show the work can be done, and doing it would put this standard on evidentiary footing.
+3. **Automation of checks 10 through 17.** These are specified but the tooling is not.
+4. **Jurisdictional labeling.** Rule 8.1 requires the writer to decide whether a deadline is jurisdictional. This is a contested legal question in many cases, and the interaction between Rule 8.1 and Rule 10.4 needs a worked rule.
+5. **Multi-source restatements.** The ledger assumes one source. A restatement that synthesizes a rule, a local rule, and a standing order needs a ledger structure that tracks provenance per proposition.
+6. **Jurisdiction profiles.** Several rules now turn on jurisdiction: whether *shall* is the governing operator (Rule 3.2), whether headings are construable (Rule 6.5), which retroactivity default applies (Rule 6.6), and whether a general severability provision exists (Rule 6.7). A short per-jurisdiction profile stating these defaults may serve better than qualifying each rule in place.
+7. **Comprehension testing.** Registers R3 and R4 are asserted, not tested. The jury instruction projects show the work can be done, and doing it would put this standard on evidentiary footing.
 
 ---
 
@@ -3234,7 +3233,7 @@ MLP-1 is maintained by Michigan Legal Publishing Ltd. Send a change request usin
 | Issue | Date | Scope |
 |---|---|---|
 | 1 | Draft | First release. Part 1 (11 sections, 73 rules, 10 general recommendations), Part 2 (dictionary framework and core word list), Part 3 (conformance and verification), Annexes A through C. |
-| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
+| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
 
 ---
 

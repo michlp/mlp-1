@@ -46,7 +46,7 @@ The operator is the load-bearing word. Decide what the provision *does* before y
 > ✗ The petition shall contain a statement of the issues. The court shall have jurisdiction.
 > ✓ The petition must contain a statement of the issues. The court has jurisdiction.
 
-**Never write *should* in operative text.** It has no settled deontic force.
+**Never write *should*.** It has no settled deontic force, and it is unavailable at every register — explanatory text included.
 
 See `operators.md` for the negation table. Writing *must not* where you mean *need not* inverts the provision.
 
@@ -161,7 +161,7 @@ Read `prohibited.md` and check your draft against it.
 Then confirm the drafting-specific points:
 
 1. Every operative sentence carries exactly one of the seven operators.
-2. No `shall`, no `should`, anywhere in operative text.
+2. No `shall` and no `should`, anywhere, at any register.
 3. Every duty names its bearer, and the bearer is a person, not a document.
 4. Every condition appears before the duty it governs.
 5. Every requirement you intend to enforce states its consequence and severity.

@@ -14,7 +14,7 @@ CLW approves seven operators and no others.
 | **need not** | Negates a duty | The actor is not required to act, but may. |
 | **will** | States an automatic consequence | The result follows without anyone exercising judgment. |
 
-Never use: *shall, shall not, should* (in operative text), *ought to, is required to, is obligated to, is directed to, it is the duty of, no person shall, is permitted to, has the right to, can, might, could, would.*
+Never use: *shall, shall not, should, ought to, is required to, is obligated to, is directed to, it is the duty of, no person shall, is permitted to, has the right to, can, might, could, would.*
 
 ---
 

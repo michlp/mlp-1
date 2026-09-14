@@ -52,7 +52,7 @@ Every operative sentence carries exactly one of these seven. No others.
 | **need not** | Negates a duty. The actor may act but is not required to. |
 | **will** | States a consequence that follows automatically. |
 
-Never write *shall* in text you draft. Never write *should* in operative text.
+Never write *shall* in text you draft. Never write *should* at all — not in operative text, and not in explanatory text at any register.
 
 **The negatives are not interchangeable.** `must not` forbids. `need not` merely releases from a duty. Writing one for the other inverts the provision, and it is the most common fidelity failure. `may not` withholds power; it never means "might not."
 
