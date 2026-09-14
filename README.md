@@ -46,10 +46,3 @@ this document, not the writing produced with it.
 For commercial licensing, contact Michigan Legal Publishing Ltd.
 
     git clone https://github.com/michlp/mlp-1.git
-
-## Independence
-
-MLP-1 is an independent work. Michigan Legal Publishing acknowledges the
-influence of ASD-STE100 *Simplified Technical English* on its general
-architecture, and reproduces none of its text. Michigan Legal Publishing is
-not affiliated with, endorsed by, or accredited by ASD. See `NOTICE`.
