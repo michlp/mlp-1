@@ -851,6 +851,7 @@ Every use of *shall* in new drafting resolves to one of the approved operators:
 | Granting permission | may |
 | Withholding authority (*shall not*) | may not |
 | Stating a future consequence | will, or the simple present |
+| Stating an amount, a status, or what is treated as what | the simple present |
 | Nothing at all | delete |
 
 > **Not CLW:** The petition shall contain a statement of the issues. The court shall have jurisdiction.
@@ -2220,12 +2221,28 @@ The source's operator determines what the provision does. Where the source uses 
 |---|---|
 | shall (construed as mandatory) | must |
 | shall (construed as directory) | Do not map. State that the source says *shall* and cite the construction. |
+| shall (declaratory) | the simple present. Record the construction as declaratory. |
 | shall not (prohibition) | must not |
 | shall not (no authority) | may not |
 | may | may |
 | is entitled to | is entitled to |
 | is not required to | need not |
 | should | Do not map to an operator. State that the source uses a non-mandatory word. |
+
+**An inverted conditional is not an operator.** Older instruments invert a
+conditional clause with *should*: *Should the court desire to hear argument*,
+*Should a party fail to appear*. The word means *if*. It carries no deontic
+force, and the row above does not apply to it. Restate the clause with *if*.
+
+> **Source:** "Should the court desire to hear argument, the court may pass an order."
+>
+> **Not CLW:** The source uses *should*, which is not mandatory.
+>
+> **CLW:** If the court wants to hear argument, the court may pass an order.
+
+Test it by uninverting. If *Should X do Y* reads as *If X does Y*, the word is
+a conditional. If it reads as *X ought to do Y*, it is the non-operative
+*should* that Rule 3.1 governs.
 
 **Do not strengthen an operator.**
 
@@ -3233,7 +3250,7 @@ MLP-1 is maintained by Michigan Legal Publishing Ltd. Send a change request usin
 | Issue | Date | Scope |
 |---|---|---|
 | 1 | Draft | First release. Part 1 (11 sections, 73 rules, 10 general recommendations), Part 2 (dictionary framework and core word list), Part 3 (conformance and verification), Annexes A through C. |
-| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
+| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
 
 ---
 

@@ -79,7 +79,15 @@ English negation attaches to different parts of a modal sentence. Choosing the w
 | is not required to | need not |
 | should | **Do not map.** State that the source uses a non-mandatory word. |
 
+| shall (declaratory) | the simple present |
+
 Never strengthen: *may* does not become *will*. Never weaken: *shall* in a mandatory clause does not become *may*.
+
+**A declaratory *shall* is not a duty.** *The bill of costs shall be $80.00* states an amount. *A filing made after 5 p.m. shall be considered filed the next day* states what is treated as what. Both take the simple present, and neither carries an operator.
+
+**An inverted conditional *should* is not an operator.** Older instruments write *Should the court desire to hear argument* or *Should a party fail to appear*. The word means *if*. Restate it with *if*, and do not apply the rule above.
+
+Test it by uninverting. If *Should X do Y* reads as *If X does Y*, it is a conditional. If it reads as *X ought to do Y*, it is the non-operative *should*.
 
 > Source: "The court may, in its discretion, award costs."
 > Not CLW: The court will award costs.
