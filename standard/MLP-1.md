@@ -1724,6 +1724,16 @@ Use one of these four labels. A publisher may map them to typographic or graphic
 
 Do not use *jurisdictional* unless the source or controlling authority says so, or unless the consequence is unambiguously jurisdictional. Whether a deadline is jurisdictional is heavily litigated, and characterizing one incorrectly is a serious fidelity failure. Where the question is unsettled, Rule 10.4 applies: state that it is unsettled and cite both sides.
 
+**Where the severity is contested, write no label.** The four labels are a closed set and a writer must not stretch one to fit. A label is a statement about the law, and picking one to satisfy this rule is the failure Rule 10.4 forbids.
+
+State the requirement. State the consequence that the source states. Then mark the contest, and stop.
+
+> **CLW:** A party must file the notice within 30 days. The rule does not state whether this period is jurisdictional. Courts have divided on the question. Refer to [citation] and [citation].
+
+An unlabeled consequence conforms where the contest is marked. An unlabeled consequence that is merely unexamined does not.
+
+**This applies to every label, not only to *jurisdictional*.** The line between mandatory and discretionary turns on whether a court retains power to excuse, which is contested as often as jurisdictionality is.
+
 ---
 
 > **Rule 8.2** — State the consequence with the requirement.
@@ -3177,7 +3187,7 @@ The following are taken from the general practice of controlled languages and ar
 1. **Register R4 and terms of art.** R4 permits a described equivalent to follow a term of art. Whether this is safe for standards of review, and whether R4 should be restricted to procedural rather than substantive material, needs testing against reader comprehension data.
 2. **Word count for citations.** Counting a full citation as one word is generous. If R2 restatements routinely run to 30 counted words with four citations, the effective sentence is long. A separate citation-density limit may be needed.
 3. **Automation of checks 10 through 17.** These are specified and no published tooling implements them. Any such checker compares a ledger, a source, and a restatement. It has no independent view of the source, so it cannot find a proposition the ledger never recorded. Decomposition stays human work.
-4. **Jurisdictional labeling.** Rule 8.1 requires the writer to decide whether a deadline is jurisdictional. This is a contested legal question in many cases, and the interaction between Rule 8.1 and Rule 10.4 needs a worked rule.
+4. **Jurisdictional labeling.** Rule 8.1 now says what to write where severity is contested: no label, and a marked contest. What it does not give is a test for when a question counts as contested, as against merely unresearched. That distinction decides whether an unlabeled consequence conforms.
 5. **Multi-source restatements.** The ledger assumes one source. A restatement that synthesizes a rule, a local rule, and a standing order needs a structure that records provenance for each proposition. Where two such sources conflict, the ledger flags the conflict. It does not reconcile it, because reconciling is construction.
 6. **Jurisdiction profiles.** Several rules now turn on jurisdiction: whether *shall* is the governing operator (Rule 3.2), whether headings are construable (Rule 6.5), which retroactivity default applies (Rule 6.6), and whether a general severability provision exists (Rule 6.7). A short per-jurisdiction profile stating these defaults may serve better than qualifying each rule in place. Each profile is legal research rather than a drafting exercise. An uncited answer in a profile is worse than a blank one, because a reader will rely on it.
 7. **Comprehension testing.** Registers R3 and R4 are asserted, not tested. The jury instruction projects show the work can be done, and doing it would put this standard on evidentiary footing.
@@ -3331,7 +3341,7 @@ MLP-1 is maintained by Michigan Legal Publishing Ltd. Send a change request usin
 | Issue | Date | Scope |
 |---|---|---|
 | 1 | Draft | First release. Part 1 (11 sections, 73 rules, 10 general recommendations), Part 2 (dictionary framework and core word list), Part 3 (conformance and verification), Annexes A through C. |
-| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Adds blind reconstruction as Step 6 of the verification procedure, and a blocking and advisory distinction to the conformance regime. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator, and that a *should* inside a stated test is preserved under Rule 2.2. Cross-references Rule 4.4 from Rules 4.1 and 10.8, where the word cap would otherwise split a conjunctive series. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
+| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Adds a rule to Rule 8.1 for a contested consequence severity: write no label and mark the contest. Adds blind reconstruction as Step 6 of the verification procedure, and a blocking and advisory distinction to the conformance regime. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator, and that a *should* inside a stated test is preserved under Rule 2.2. Cross-references Rule 4.4 from Rules 4.1 and 10.8, where the word cap would otherwise split a conjunctive series. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
 
 ---
 

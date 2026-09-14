@@ -1,0 +1,293 @@
+{
+  "register": "R3",
+  "conformance_target": 3,
+  "sources": [
+    {
+      "id": "S1",
+      "citation": "O.C.G.A. \u00a7\u00a7 5-6-3, 5-6-5, 5-6-6, 5-6-7",
+      "version": "As published in the Georgia Code, Title 5, Chapter 6",
+      "text_file": "source/ocga-appellate-r3.txt",
+      "source_sha256": "3ca9df3b8d38deed80e368535bab5421d501c261f64de5c3a62acc4edf3e71b8"
+    }
+  ],
+  "restatement_file": "restatement/ga-appellate-r3.md",
+  "front_matter": [
+    "Register R3",
+    "Source: O.C.G.A"
+  ],
+  "glosses": [
+    "The appellant is the party who appealed",
+    "The appellee is the party on the other side",
+    "A remittitur is the appellate court's order",
+    "A sum certain is a fixed amount of money",
+    "Ore tenus means by spoken word",
+    "Want of prosecution means a case is dropped"
+  ],
+  "propositions": [
+    {
+      "id": "P1",
+      "source": "S1",
+      "locus": "5-6-3(a)",
+      "actor": "the appellate court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "pass an order requiring counsel to file briefs on or before a certain day prior to the succeeding term",
+      "conditions": [
+        "the court may be unable to dispose of all cases on its docket for any term before the succeeding term begins"
+      ],
+      "quantifiers": [
+        "all",
+        "any"
+      ],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R9",
+        "R10",
+        "R11"
+      ]
+    },
+    {
+      "id": "P2",
+      "source": "S1",
+      "locus": "5-6-3(a)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "declaratory",
+      "authority": null,
+      "operator": null,
+      "action": "cases in which briefs are thus filed are considered as heard at the term to which returned",
+      "conditions": [
+        "briefs filed under the order"
+      ],
+      "quantifiers": [
+        "all"
+      ],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R12"
+      ]
+    },
+    {
+      "id": "P3",
+      "source": "S1",
+      "locus": "5-6-3(a)",
+      "actor": "the court",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Plain mandatory reading",
+      "operator": "must",
+      "action": "determine the cases and announce the decision as soon after the briefs are filed as may be practicable",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R13"
+      ]
+    },
+    {
+      "id": "P4",
+      "source": "S1",
+      "locus": "5-6-3(a)",
+      "actor": "the appellate court",
+      "source_operator": "Should ... the court may",
+      "construction": "conditional",
+      "authority": "Inverted conditional, not a deontic modal: 'Should the court desire' reads 'If the court desires'",
+      "operator": "may",
+      "action": "pass an order requiring counsel to submit further argument by brief or in open court",
+      "conditions": [
+        "the court desires to hear argument in addition to the briefs"
+      ],
+      "quantifiers": [],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R14",
+        "R15"
+      ]
+    },
+    {
+      "id": "P5",
+      "source": "S1",
+      "locus": "5-6-3(b)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Express consequence for noncompliance",
+      "operator": "must",
+      "action": "the case is dismissed for want of prosecution",
+      "conditions": [
+        "counsel for the appellant fails to comply with the order",
+        "no sufficient excuse is shown for noncompliance"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "dismissal for want of prosecution (Mandatory)",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R16",
+        "R17",
+        "R18",
+        "R19"
+      ]
+    },
+    {
+      "id": "P6",
+      "source": "S1",
+      "locus": "5-6-5",
+      "actor": "the appellant",
+      "source_operator": "shall be entitled to",
+      "construction": "mandatory",
+      "authority": "Express entitlement",
+      "operator": "is entitled to",
+      "action": "a judgment for the amount of the costs in the appellate court against the appellee",
+      "conditions": [
+        "judgment of reversal",
+        "remittitur returned to the court below"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R20",
+        "R21",
+        "R22"
+      ]
+    },
+    {
+      "id": "P7",
+      "source": "S1",
+      "locus": "5-6-6",
+      "actor": "the appellate court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "award 10 percent damages upon any judgment for a sum certain which has been affirmed",
+      "conditions": [
+        "in the opinion of the court the case was taken up for delay only"
+      ],
+      "quantifiers": [
+        "any",
+        "only"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [
+        "10 percent"
+      ],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R23",
+        "R24"
+      ]
+    },
+    {
+      "id": "P8",
+      "source": "S1",
+      "locus": "5-6-6",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Plain mandatory reading",
+      "operator": "must",
+      "action": "the award is entered in the remittitur",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R25",
+        "R26"
+      ]
+    },
+    {
+      "id": "P9",
+      "source": "S1",
+      "locus": "5-6-7",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Express prohibition",
+      "operator": "must not",
+      "action": "a decision is rendered ore tenus",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R27",
+        "R28"
+      ]
+    },
+    {
+      "id": "P10",
+      "source": "S1",
+      "locus": "5-6-7",
+      "actor": "the reporter",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Plain mandatory reading",
+      "operator": "must",
+      "action": "publish in the official reports all judgments, but only those opinions which the courts direct to be published",
+      "conditions": [],
+      "quantifiers": [
+        "all",
+        "only"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R29",
+        "R30"
+      ]
+    }
+  ]
+}

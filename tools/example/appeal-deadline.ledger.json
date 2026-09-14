@@ -1,0 +1,108 @@
+{
+  "register": "R2",
+  "conformance_target": 3,
+  "sources": [
+    {
+      "id": "S1",
+      "citation": "Fed. R. App. P. 4(a)(1)(A)",
+      "version": "Effective 2024-12-01",
+      "text_file": "source/frap-4a1a.txt",
+      "source_sha256": "e0e19f3af1100113f04b5634bc8c72353388742218a715a63a8f420d8da92598"
+    },
+    {
+      "id": "S2",
+      "citation": "Standing Order Section 2 (N.D. Example)",
+      "version": "Adopted 2025-03-01",
+      "text_file": "source/standing-order-2.txt",
+      "source_sha256": "133578abaef5d831496ab2155d48f986d79e4407044f6c4e2ea4a7b0a52ad800"
+    }
+  ],
+  "restatement_file": "restatement/appeal-deadline.md",
+  "front_matter": [
+    "R1"
+  ],
+  "propositions": [
+    {
+      "id": "P1",
+      "source": "S1",
+      "locus": "4(a)(1)(A)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Bowles v. Russell, 551 U.S. 205 (2007)",
+      "operator": "must",
+      "action": "be filed with the district clerk",
+      "conditions": [
+        "judgment or order entered"
+      ],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [
+        "Fed. R. App. P. 3"
+      ],
+      "numerals": [
+        "30 days"
+      ],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R2",
+        "R3"
+      ]
+    },
+    {
+      "id": "P2",
+      "source": "S1",
+      "locus": "4(a)(1)(A)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Bowles v. Russell, 551 U.S. 205 (2007)",
+      "operator": null,
+      "action": "no consequence stated for a late filing",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "GAP"
+      ],
+      "carried_by": [
+        "R4"
+      ]
+    },
+    {
+      "id": "P3",
+      "source": "S2",
+      "locus": "Section 2",
+      "actor": "counsel",
+      "source_operator": "shall",
+      "construction": "contested",
+      "authority": null,
+      "operator": null,
+      "action": "transmit the record to the clerk of the court of appeals",
+      "conditions": [
+        "appeal docketed"
+      ],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "OPERATOR CONTESTED"
+      ],
+      "carried_by": [
+        "R5",
+        "R6"
+      ]
+    }
+  ]
+}

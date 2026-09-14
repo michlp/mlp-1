@@ -1,0 +1,338 @@
+{
+  "register": "R2",
+  "conformance_target": 3,
+  "sources": [
+    {
+      "id": "S1",
+      "citation": "Fed. R. Crim. P. 29",
+      "version": "Bundle content_version ecf94aeaed982a6f, published 2026-08-26",
+      "text_file": "source/frcrp-29.txt",
+      "source_sha256": "0a91ae62038bc325bde0b498df6fa837f9a53195b8960817eceea7404effcc4d"
+    }
+  ],
+  "restatement_file": "restatement/frcrp-29.md",
+  "front_matter": [
+    "Register R2",
+    "Source: Fed. R. Crim. P. 29"
+  ],
+  "propositions": [
+    {
+      "id": "P1",
+      "source": "S1",
+      "locus": "29(a)",
+      "actor": "the court",
+      "source_operator": "must",
+      "construction": "mandatory",
+      "authority": "Restyled federal rule; must is the mandatory operator",
+      "operator": "must",
+      "action": "enter a judgment of acquittal of any offense for which the evidence is insufficient to sustain a conviction",
+      "conditions": [
+        "on the defendant's motion",
+        "after the government closes its evidence or after the close of all the evidence"
+      ],
+      "quantifiers": [
+        "any",
+        "all"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "Under Rule 29(a), the court must enter",
+        "The court must do so on the defendant",
+        "The motion may be made after the government closes"
+      ]
+    },
+    {
+      "id": "P2",
+      "source": "S1",
+      "locus": "29(a)",
+      "actor": "the court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "on its own consider whether the evidence is insufficient to sustain a conviction",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "The court may on its own consider"
+      ]
+    },
+    {
+      "id": "P3",
+      "source": "S1",
+      "locus": "29(a)",
+      "actor": "the defendant",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "offer evidence without having reserved the right to do so",
+      "conditions": [
+        "the court denies a motion for a judgment of acquittal at the close of the government's evidence"
+      ],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "If the court denies a motion for a judgment of acquittal at the close",
+        "The defendant need not have reserved"
+      ]
+    },
+    {
+      "id": "P4",
+      "source": "S1",
+      "locus": "29(b)",
+      "actor": "the court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "reserve decision, proceed with the trial, submit the case to the jury, and decide the motion before or after the verdict",
+      "conditions": [
+        "proceeding with the trial requires that the motion be made before the close of all the evidence"
+      ],
+      "quantifiers": [
+        "all"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "the court may do all of the following",
+        "Reserve decision on the motion",
+        "Proceed with the trial, where the motion is made",
+        "Submit the case to the jury",
+        "Decide the motion, either before the jury returns"
+      ],
+      "series": {
+        "connector": "AND",
+        "stem": "the court may do all of the following",
+        "items": [
+          "Reserve decision on the motion",
+          "Proceed with the trial",
+          "Submit the case to the jury",
+          "Decide the motion"
+        ]
+      }
+    },
+    {
+      "id": "P5",
+      "source": "S1",
+      "locus": "29(b)",
+      "actor": "the court",
+      "source_operator": "must",
+      "construction": "mandatory",
+      "authority": "Restyled federal rule",
+      "operator": "must",
+      "action": "decide the motion on the basis of the evidence at the time the ruling was reserved",
+      "conditions": [
+        "the court reserves decision"
+      ],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "If the court reserves decision, it must decide"
+      ]
+    },
+    {
+      "id": "P6",
+      "source": "S1",
+      "locus": "29(c)(1)",
+      "actor": "a defendant",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "move for a judgment of acquittal, or renew such a motion, within 14 days after a guilty verdict or after the court discharges the jury, whichever is later",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [
+        "14 days"
+      ],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "a defendant may move for a judgment of acquittal, or",
+        "A defendant may do so within 14 days"
+      ]
+    },
+    {
+      "id": "P7",
+      "source": "S1",
+      "locus": "29(c)(2)",
+      "actor": "the court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "set aside a guilty verdict and enter an acquittal, or enter a judgment of acquittal where the jury failed to return a verdict",
+      "conditions": [
+        "the jury has returned a guilty verdict",
+        "the jury has failed to return a verdict"
+      ],
+      "quantifiers": [],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "if the jury has returned a guilty verdict, the court may set aside",
+        "If the jury has failed to return a verdict"
+      ]
+    },
+    {
+      "id": "P8",
+      "source": "S1",
+      "locus": "29(c)(3)",
+      "actor": "a defendant",
+      "source_operator": "is not required to",
+      "construction": "permissive",
+      "authority": "Express negation of a duty",
+      "operator": "need not",
+      "action": "move for a judgment of acquittal before the court submits the case to the jury as a prerequisite for a later motion",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "a defendant need not move for a judgment of acquittal",
+        "That is not a prerequisite for making"
+      ]
+    },
+    {
+      "id": "P9",
+      "source": "S1",
+      "locus": "29(d)(1)",
+      "actor": "the court",
+      "source_operator": "must",
+      "construction": "mandatory",
+      "authority": "Restyled federal rule",
+      "operator": "must",
+      "action": "conditionally determine whether any motion for a new trial should be granted if the judgment of acquittal is later vacated or reversed, and specify the reasons",
+      "conditions": [
+        "the court enters a judgment of acquittal after a guilty verdict"
+      ],
+      "quantifiers": [
+        "any"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "if the court enters a judgment of acquittal after a guilty verdict",
+        "The question is whether a new trial is to be granted",
+        "The court must specify the reasons"
+      ]
+    },
+    {
+      "id": "P10",
+      "source": "S1",
+      "locus": "29(d)(2)",
+      "actor": "NONE STATED",
+      "source_operator": "does not affect",
+      "construction": "declaratory",
+      "authority": null,
+      "operator": null,
+      "action": "the order conditionally granting a motion for a new trial does not affect the finality of the judgment of acquittal",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "the court's order conditionally granting a motion for a new trial does not affect"
+      ]
+    },
+    {
+      "id": "P11",
+      "source": "S1",
+      "locus": "29(d)(3)(A)",
+      "actor": "the trial court",
+      "source_operator": "must",
+      "construction": "mandatory",
+      "authority": "Restyled federal rule",
+      "operator": "must",
+      "action": "proceed with the new trial unless the appellate court orders otherwise",
+      "conditions": [
+        "the court conditionally grants a motion for a new trial",
+        "an appellate court later reverses the judgment of acquittal"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "applies where the court conditionally grants",
+        "In that case the trial court must proceed",
+        "That applies unless the appellate court orders otherwise"
+      ]
+    },
+    {
+      "id": "P12",
+      "source": "S1",
+      "locus": "29(d)(3)(B)",
+      "actor": "an appellee",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "assert that a conditional denial of a motion for a new trial was erroneous; the trial court must then proceed as the appellate court directs",
+      "conditions": [
+        "the court conditionally denies a motion for a new trial",
+        "the appellate court later reverses the judgment of acquittal"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "if the court conditionally denies a motion for a new trial",
+        "If the appellate court later reverses the judgment of acquittal, the trial court"
+      ]
+    }
+  ]
+}

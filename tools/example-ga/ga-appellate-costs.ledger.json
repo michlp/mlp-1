@@ -1,0 +1,269 @@
+{
+  "register": "R2",
+  "conformance_target": 3,
+  "sources": [
+    {
+      "id": "S1",
+      "citation": "O.C.G.A. \u00a7\u00a7 5-6-4, 5-6-5, 5-6-6",
+      "version": "As published in the Georgia Code, Title 5, Chapter 6",
+      "text_file": "source/ocga-5-6-4-to-6.txt",
+      "source_sha256": "a4168ce20e118a3630b8e38174e2dc78c2ae80c822197b89a54496aeb4cb7db3"
+    }
+  ],
+  "restatement_file": "restatement/ga-appellate-costs.md",
+  "propositions": [
+    {
+      "id": "P1",
+      "source": "S1",
+      "locus": "5-6-4(a)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "declaratory",
+      "authority": null,
+      "operator": null,
+      "action": "the bill of costs is $80.00 in criminal and habeas corpus cases",
+      "conditions": [
+        "criminal case, or habeas corpus case for a person whose liberty is restrained by a state court sentence"
+      ],
+      "quantifiers": [
+        "every"
+      ],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [
+        "$80.00"
+      ],
+      "defined_terms": [],
+      "flags": [
+        "AMBIGUOUS"
+      ],
+      "carried_by": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ]
+    },
+    {
+      "id": "P2",
+      "source": "S1",
+      "locus": "5-6-4(a)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "declaratory",
+      "authority": null,
+      "operator": null,
+      "action": "the bill of costs is $300.00 in all other civil cases",
+      "conditions": [
+        "all other civil cases"
+      ],
+      "quantifiers": [
+        "all other"
+      ],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [
+        "$300.00"
+      ],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R6"
+      ]
+    },
+    {
+      "id": "P3",
+      "source": "S1",
+      "locus": "5-6-4(a)",
+      "actor": "counsel for the applicant or appellant",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Plain mandatory reading; duty assigned to a named actor",
+      "operator": "must",
+      "action": "pay the costs at the time of filing the application, or for a direct appeal at the time of filing the original brief",
+      "conditions": [
+        "application filed",
+        "direct appeal: original brief filed"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R7",
+        "R8"
+      ]
+    },
+    {
+      "id": "P4",
+      "source": "S1",
+      "locus": "5-6-4(a)",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "declaratory",
+      "authority": null,
+      "operator": null,
+      "action": "there are no additional costs where certiorari or an application for appeal is granted",
+      "conditions": [
+        "writ of certiorari or application for appeal granted"
+      ],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R9"
+      ]
+    },
+    {
+      "id": "P5",
+      "source": "S1",
+      "locus": "5-6-4(b)",
+      "actor": "NONE STATED",
+      "source_operator": "shall not be required",
+      "construction": "permissive",
+      "authority": "Express exemption from the requirement to pay",
+      "operator": "need not",
+      "action": "costs are not required when a listed condition is met at the time they are due",
+      "conditions": [
+        "incarcerated pro se applicant or appellant",
+        "counsel appointed for indigency",
+        "affidavit of indigency filed"
+      ],
+      "quantifiers": [
+        "any one"
+      ],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R10",
+        "R11",
+        "R12",
+        "R13",
+        "R14"
+      ]
+    },
+    {
+      "id": "P6",
+      "source": "S1",
+      "locus": "5-6-4(c)",
+      "actor": "the clerk",
+      "source_operator": "shall be prohibited",
+      "construction": "mandatory",
+      "authority": "Express prohibition directed at a named officer",
+      "operator": "must not",
+      "action": "receive the application for appeal or the brief of the appellant",
+      "conditions": [
+        "costs unpaid",
+        "subsection (b) not satisfied"
+      ],
+      "quantifiers": [],
+      "connector": "OR",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R15"
+      ]
+    },
+    {
+      "id": "P7",
+      "source": "S1",
+      "locus": "5-6-5",
+      "actor": "the appellant",
+      "source_operator": "shall be entitled to",
+      "construction": "mandatory",
+      "authority": "Express entitlement",
+      "operator": "is entitled to",
+      "action": "a judgment for the amount of the costs in the appellate court against the appellee",
+      "conditions": [
+        "judgment of reversal",
+        "remittitur returned to the court below"
+      ],
+      "quantifiers": [],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R16",
+        "R17"
+      ]
+    },
+    {
+      "id": "P8",
+      "source": "S1",
+      "locus": "5-6-6",
+      "actor": "the appellate court",
+      "source_operator": "may",
+      "construction": "permissive",
+      "authority": null,
+      "operator": "may",
+      "action": "award 10 percent damages upon any judgment for a sum certain which has been affirmed",
+      "conditions": [
+        "in the opinion of the court the case was taken up for delay only",
+        "judgment for a sum certain affirmed"
+      ],
+      "quantifiers": [
+        "any",
+        "only"
+      ],
+      "connector": "AND",
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [
+        "10 percent"
+      ],
+      "defined_terms": [],
+      "flags": [],
+      "carried_by": [
+        "R18",
+        "R19"
+      ]
+    },
+    {
+      "id": "P9",
+      "source": "S1",
+      "locus": "5-6-6",
+      "actor": "NONE STATED",
+      "source_operator": "shall",
+      "construction": "mandatory",
+      "authority": "Plain mandatory reading",
+      "operator": "must",
+      "action": "the award is entered in the remittitur",
+      "conditions": [],
+      "quantifiers": [],
+      "connector": null,
+      "consequence": "NONE STATED",
+      "citations": [],
+      "numerals": [],
+      "defined_terms": [],
+      "flags": [
+        "AGENT UNSTATED"
+      ],
+      "carried_by": [
+        "R20",
+        "R21"
+      ]
+    }
+  ]
+}

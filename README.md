@@ -27,6 +27,26 @@ writing:
 - **Fidelity is verified, not asserted.** Part 3 sets out a proposition
   ledger, bidirectional mapping, mechanical checks, and version binding.
 
+## Conformance tooling
+
+`tools/` carries a checker for the Part 3 mechanical checks, a JSON form of the
+proposition ledger, and five worked examples drawn from real court rules —
+Georgia appellate practice, Fed. R. Crim. P. 29, and a three-instrument
+Tennessee synthesis that exercises conflicting sources.
+
+```
+python3 tools/check_ledger.py <ledger.json>
+```
+
+It runs 19 checks. A failure blocks where it changes what the text says;
+punctuation and length are recorded for review and do not block. The checker
+has no independent view of the source, so it cannot find a proposition the
+ledger never recorded. Decomposition is human work, and so is the signature.
+
+`profiles/TEMPLATE.md` sets out what a jurisdiction profile must answer for the
+rules that turn on jurisdiction. No profile has been compiled: each one is
+legal research, and an uncited answer is worse than a blank.
+
 ## Status
 
 Issue 2, draft for review. Comments and change requests are welcome — use the
