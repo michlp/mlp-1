@@ -117,7 +117,32 @@ The additions that recur most:
 
 ---
 
-## Step 6 — Report
+## Step 6 — Reconstruct blind
+
+The maps in Steps 4 and 5 are done holding the source, which is their weakness:
+a checker who has read the source supplies missing propositions from memory
+without noticing.
+
+1. Give a reader the restatement, and nothing else.
+2. Ask them to write what the source must have said — every duty, condition,
+   actor, period, and consequence.
+3. Compare that reconstruction against the real source.
+
+A divergence in either direction is a defect in the restatement, not in the
+reconstruction. A reconstruction divergence blocks publication.
+
+**If you drafted the restatement, you cannot do this step either**, and neither
+can a model that has seen the source in this conversation. It has to be a
+separate call that never received it. Say so rather than performing a
+reconstruction you are not blind for.
+
+A clean reconstruction proves the restatement carries enough to rebuild the
+source. It does not prove the restatement says only what the source says —
+Step 5 does that.
+
+---
+
+## Step 7 — Report
 
 Report findings as defects against the source, not as suggestions. For each:
 
@@ -130,7 +155,7 @@ Do not rewrite the restatement as part of a verification report unless asked. Ve
 
 ---
 
-## Step 7 — State the level reached, honestly
+## Step 8 — State the level reached, honestly
 
 | Level | Requires |
 |---|---|

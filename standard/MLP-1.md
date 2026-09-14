@@ -2872,6 +2872,44 @@ A published restatement must be Level 3. Nothing below Level 3 may be labeled as
 
 State the conformance level in the document's metadata, together with the register (Rule 7.1).
 
+## Blocking and advisory failures
+
+The rules in this standard do not all protect the same thing. Rule 10.2
+protects what the text says. Rule 9.2 protects how it reads. A conformance
+check that treats a failure of each as equally disqualifying rejects sound work
+over prose, and it teaches a drafter to weigh a semicolon against a misstated
+deadline.
+
+A failure is **blocking** where it changes what the text says, or conceals that
+something is unsaid:
+
+- Any failure of Section 10.
+- A reconstruction divergence (Part 3, Step 6).
+- An operator outside the approved set, or a negation that inverts the
+  provision (Rules 3.1, 3.3).
+- A paraphrased legal standard, test, or threshold (Rule 2.2).
+- A dropped quantifier, connector, or exclusivity word (Rule 10.8).
+- An ambiguity resolved, left unmarked, or covered by a hedge (Rule 10.4).
+- A serial comma, an *and/or*, or a modifier whose reach is unclear, where the
+  omission creates an ambiguity the source does not have (Rules 9.1, 9.3, 9.4).
+- An actor supplied, narrowed, or dropped (Rule 10.6).
+
+A failure is **advisory** where the text still says the same thing. Sentence
+length, punctuation, archaic wording, nominalizations, phrasal verbs, doublets,
+and terminology preference are advisory.
+
+A blocking failure prevents conformance at every level. An advisory failure is
+recorded against the document and queues it for editorial review. It does not
+prevent publication.
+
+**Where a rule falls in neither list, apply this test.** Would a reader relying
+on the text be misled? If the answer is yes, the failure blocks.
+
+This distinction governs conformance, not drafting. A drafter follows every
+rule. The severity of a failure is a question for the reviewer who finds one.
+
+---
+
 ## The proposition ledger
 
 The ledger is the artifact that makes equivalence checkable. It is built before the restatement is drafted, not after.
@@ -2922,6 +2960,36 @@ The backward map is the harder one and catches the errors the forward map misses
 
 The ledger is retained. It is the evidence that verification occurred. It is also the starting point when the source is amended. An amendment usually changes a small number of propositions, and the ledger identifies which restatement sentences are affected.
 
+### Step 6 — Reconstruct blind
+
+The bidirectional map in Steps 3 and 4 is performed by someone holding the
+source. That is its weakness. A checker who has read the source reads the
+restatement against it, and a proposition the restatement never carried can
+look present because the checker supplies it from memory.
+
+Blind reconstruction removes the source from the checker's hands.
+
+1. Give a reader the restatement, and nothing else.
+2. Ask the reader to write what the source must have said: every duty, every
+   condition, every actor, every period, every consequence.
+3. Compare the reconstruction against the real source.
+
+A **divergence** is any proposition the reconstruction states that the source
+does not, or any proposition the source states that the reconstruction could
+not recover. Each one is a defect in the restatement, not in the reconstruction.
+
+The reconstruction is not published and is not the restatement. It is a probe.
+
+**A reconstruction that recovers the source exactly proves nothing on its own.**
+It shows the restatement carries enough to rebuild the source. It does not show
+the restatement says only what the source says; Step 4 does that.
+
+Where a language model performs this step, it must be a separate call. A model
+that has seen the source in this conversation is not blind to it, whatever the
+prompt says.
+
+---
+
 ### Constraint on model-assisted checking
 
 Where a language model assists with any step:
@@ -2929,6 +2997,7 @@ Where a language model assists with any step:
 - The model must not see the restatement while decomposing the source.
 - The model must not see the ledger while drafting.
 - Forward mapping and backward mapping must be separate calls with no shared context.
+- Blind reconstruction must be a separate call that has never received the source.
 - A model's agreement is not verification. A model that drafted a sentence will find that sentence faithful.
 - A human reviewer signs the ledger.
 
@@ -3262,7 +3331,7 @@ MLP-1 is maintained by Michigan Legal Publishing Ltd. Send a change request usin
 | Issue | Date | Scope |
 |---|---|---|
 | 1 | Draft | First release. Part 1 (11 sections, 73 rules, 10 general recommendations), Part 2 (dictionary framework and core word list), Part 3 (conformance and verification), Annexes A through C. |
-| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator, and that a *should* inside a stated test is preserved under Rule 2.2. Cross-references Rule 4.4 from Rules 4.1 and 10.8, where the word cap would otherwise split a conjunctive series. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
+| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Adds blind reconstruction as Step 6 of the verification procedure, and a blocking and advisory distinction to the conformance regime. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator, and that a *should* inside a stated test is preserved under Rule 2.2. Cross-references Rule 4.4 from Rules 4.1 and 10.8, where the word cap would otherwise split a conjunctive series. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
 
 ---
 

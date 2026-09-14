@@ -18,6 +18,11 @@ legal standard and is preserved under Rule 2.2. Cross-references Rule 4.4
 from Rules 4.1 and 10.8: where the word cap would split a conjunctive
 series, use a vertical list rather than separate sentences, because
 splitting drops the connector that bound them.
+Adds a blocking and advisory distinction to the conformance regime: a failure
+blocks where it changes what the text says, and is otherwise recorded for
+editorial review. Adds blind reconstruction as Step 6 of the verification
+procedure, where a reader who has not seen the source rebuilds it from the
+restatement alone.
 Corrects the scope of the Plain Writing Act in the reference documents.
 Removes the Independence and attribution section from the Notices.
 79 rules, 11 general recommendations.
