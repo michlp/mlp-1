@@ -1,6 +1,6 @@
-# MLP-1
+# MLP-1™
 
-## Controlled Legal Writing
+## Controlled Legal Writing™
 
 ## Standard for drafting and summarizing legal texts
 
@@ -3078,10 +3078,10 @@ The following are taken from the general practice of controlled languages and ar
 
 1. **Register R4 and terms of art.** R4 permits a described equivalent to follow a term of art. Whether this is safe for standards of review, and whether R4 should be restricted to procedural rather than substantive material, needs testing against reader comprehension data.
 2. **Word count for citations.** Counting a full citation as one word is generous. If R2 restatements routinely run to 30 counted words with four citations, the effective sentence is long. A separate citation-density limit may be needed.
-3. **Automation of checks 10 through 17.** These are specified but the tooling is not.
+3. **Automation of checks 10 through 17.** These are specified and no published tooling implements them. Any such checker compares a ledger, a source, and a restatement. It has no independent view of the source, so it cannot find a proposition the ledger never recorded. Decomposition stays human work.
 4. **Jurisdictional labeling.** Rule 8.1 requires the writer to decide whether a deadline is jurisdictional. This is a contested legal question in many cases, and the interaction between Rule 8.1 and Rule 10.4 needs a worked rule.
-5. **Multi-source restatements.** The ledger assumes one source. A restatement that synthesizes a rule, a local rule, and a standing order needs a ledger structure that tracks provenance per proposition.
-6. **Jurisdiction profiles.** Several rules now turn on jurisdiction: whether *shall* is the governing operator (Rule 3.2), whether headings are construable (Rule 6.5), which retroactivity default applies (Rule 6.6), and whether a general severability provision exists (Rule 6.7). A short per-jurisdiction profile stating these defaults may serve better than qualifying each rule in place.
+5. **Multi-source restatements.** The ledger assumes one source. A restatement that synthesizes a rule, a local rule, and a standing order needs a structure that records provenance for each proposition. Where two such sources conflict, the ledger flags the conflict. It does not reconcile it, because reconciling is construction.
+6. **Jurisdiction profiles.** Several rules now turn on jurisdiction: whether *shall* is the governing operator (Rule 3.2), whether headings are construable (Rule 6.5), which retroactivity default applies (Rule 6.6), and whether a general severability provision exists (Rule 6.7). A short per-jurisdiction profile stating these defaults may serve better than qualifying each rule in place. Each profile is legal research rather than a drafting exercise. An uncited answer in a profile is worse than a blank one, because a reader will rely on it.
 7. **Comprehension testing.** Registers R3 and R4 are asserted, not tested. The jury instruction projects show the work can be done, and doing it would put this standard on evidentiary footing.
 
 ---
