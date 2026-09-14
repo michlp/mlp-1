@@ -13,6 +13,11 @@ states an amount or what is treated as what takes the simple present and
 carries no operator. Adds a note to Rule 10.7 that an inverted conditional
 `should` ("Should the court desire") means `if` and is not an operator at
 all. Both surfaced from restating real court rules.
+Adds a note to Rule 10.7 that a `should` inside a stated test is part of a
+legal standard and is preserved under Rule 2.2. Cross-references Rule 4.4
+from Rules 4.1 and 10.8: where the word cap would split a conjunctive
+series, use a vertical list rather than separate sentences, because
+splitting drops the connector that bound them.
 Corrects the scope of the Plain Writing Act in the reference documents.
 Removes the Independence and attribution section from the Notices.
 79 rules, 11 general recommendations.

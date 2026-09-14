@@ -1065,6 +1065,8 @@ The limits are higher than a technical standard would set, and deliberately so. 
 
 Rule 9.7 gives the counting method.
 
+**Where the cap would split a conjunctive series, use a vertical list (Rule 4.4). Do not split the series into separate sentences.** A series joined by *and* states one course; four sentences each beginning *the court may* state four independent options. The connector is content, and Rule 10.8 forbids losing it. Rule 4.4 puts the connector in the introductory text, where it governs every item and costs no words in any single sentence.
+
 > **Not CLW:** If the court determines, after notice to all parties and an opportunity to be heard, that the moving party has shown good cause and that no other party will be prejudiced, the court may in its discretion extend the deadline for a period not exceeding 30 days. (49 words)
 >
 > **CLW:** The court may extend the deadline by up to 30 days. Before it does so, the court must give notice to all parties and an opportunity to be heard. The court must also find good cause and no prejudice to any other party. (17, 16, 15 words)
@@ -2244,6 +2246,14 @@ Test it by uninverting. If *Should X do Y* reads as *If X does Y*, the word is
 a conditional. If it reads as *X ought to do Y*, it is the non-operative
 *should* that Rule 3.1 governs.
 
+**A *should* inside a stated test is part of a legal standard.** Where the source directs a decision-maker to determine whether something *should* be done, the word names the test rather than directing an actor. Rule 2.2 governs it: preserve it, and do not paraphrase it into an operator.
+
+> **Source:** "…must also conditionally determine whether any motion for a new trial should be granted…"
+>
+> **Not CLW:** …must determine whether a new trial must be granted.
+>
+> **CLW:** …must conditionally determine whether any motion for a new trial "should" be granted.
+
 **Do not strengthen an operator.**
 
 > **Source:** "The court may, in its discretion, award costs."
@@ -2289,6 +2299,8 @@ Quantifiers and connectors carry as much legal content as operators, and they ar
 > **Not CLW:** ...if the movant shows good cause or the opposing party is not prejudiced...
 
 Where a source uses *and/or*, preserve it and flag it (Rule 9.3, Rule 10.4).
+
+**A connector is lost most often to the word cap, not to carelessness.** Splitting a long conjunctive series into one sentence per item is the obvious way to fit Rule 4.1, and it drops the *and* that bound them. Use a vertical list under Rule 4.4 instead, and state the connector in the introductory text.
 
 **Exclusivity.** *Only*, *solely*, *exclusively*. Dropping *only* converts a limitation into a grant.
 
@@ -3250,7 +3262,7 @@ MLP-1 is maintained by Michigan Legal Publishing Ltd. Send a change request usin
 | Issue | Date | Scope |
 |---|---|---|
 | 1 | Draft | First release. Part 1 (11 sections, 73 rules, 10 general recommendations), Part 2 (dictionary framework and core word list), Part 3 (conformance and verification), Annexes A through C. |
-| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
+| 2 | Draft | Adds Rules 2.9, 5.7, 6.7, 6.8, 6.9 and 9.9, and GR-11. Adds an order of precedence and a note on conformance and construction to the General introduction. Revises Rules 2.8, 3.1, 3.2, 3.6, 5.1, 6.5, 6.6, 7.3 and GR-4. Closes the *should* carve-out in Rule 3.1: *should* is not available at any register. Adds a declaratory mapping for *shall* to Rules 3.2 and 10.7, and a note to Rule 10.7 that an inverted conditional *should* is not an operator, and that a *should* inside a stated test is preserved under Rule 2.2. Cross-references Rule 4.4 from Rules 4.1 and 10.8, where the word cap would otherwise split a conjunctive series. Corrects the scope of the Plain Writing Act in the reference documents. Part 1 now has 79 rules and 11 general recommendations. Condenses the Notices. |
 
 ---
 

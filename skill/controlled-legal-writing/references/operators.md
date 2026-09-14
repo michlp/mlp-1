@@ -89,6 +89,8 @@ Never strengthen: *may* does not become *will*. Never weaken: *shall* in a manda
 
 Test it by uninverting. If *Should X do Y* reads as *If X does Y*, it is a conditional. If it reads as *X ought to do Y*, it is the non-operative *should*.
 
+**A *should* inside a stated test is part of a legal standard.** Where the source directs a decision-maker to determine whether something *should* be done — *"conditionally determine whether any motion for a new trial should be granted"* — the word names the test, not a duty on an actor. Preserve it. Rule 2.2 governs, not this rule.
+
 > Source: "The court may, in its discretion, award costs."
 > Not CLW: The court will award costs.
 > CLW: The court may award costs. The decision is within the court's discretion.

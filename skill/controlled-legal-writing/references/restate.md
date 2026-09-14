@@ -131,6 +131,7 @@ Do not soften these into hedges. "Notice generally must be in writing" is a fide
 Read `references/prohibited.md` and check your draft against it. Then confirm:
 
 - Every sentence within the register's word cap, counting citations and quotations as one word each
+- **Where the cap would split a conjunctive series, use a vertical list, not separate sentences.** Put the connector in the introductory text — *all of the following*, *any of the following*. Four sentences each beginning *the court may* state four independent options where the source stated one course.
 - Every list of three or more carries a serial comma
 - No `and/or`, no semicolons outside quoted text, no Latin abbreviations
 - No archaic pointing words: *herein*, *thereof*, *said*, *aforesaid*, *such* as a demonstrative
